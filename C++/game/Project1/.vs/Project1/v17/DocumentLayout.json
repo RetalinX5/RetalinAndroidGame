@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PROJCTS\\C\u002B\u002B\\game\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2250FAD2-2044-4897-BB58-738B93E931BD}|Project1\\Project1.vcxproj|C:\\PROJCTS\\C\u002B\u002B\\game\\Project1\\Project1\\game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2250FAD2-2044-4897-BB58-738B93E931BD}|Project1\\Project1.vcxproj|solutionrelative:Project1\\game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2250FAD2-2044-4897-BB58-738B93E931BD}|Project1\\Project1.vcxproj|C:\\PROJCTS\\C\u002B\u002B\\game\\Project1\\Project1\\platform_common.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2250FAD2-2044-4897-BB58-738B93E931BD}|Project1\\Project1.vcxproj|solutionrelative:Project1\\platform_common.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2250FAD2-2044-4897-BB58-738B93E931BD}|Project1\\Project1.vcxproj|C:\\PROJCTS\\C\u002B\u002B\\game\\Project1\\Project1\\renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2250FAD2-2044-4897-BB58-738B93E931BD}|Project1\\Project1.vcxproj|solutionrelative:Project1\\renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\PROJCTS\\C\u002B\u002B\\game\\Win32.platform.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "renderer.cpp",
+              "DocumentMoniker": "C:\\PROJCTS\\C\u002B\u002B\\game\\Project1\\Project1\\renderer.cpp",
+              "RelativeDocumentMoniker": "Project1\\renderer.cpp",
+              "ToolTip": "C:\\PROJCTS\\C\u002B\u002B\\game\\Project1\\Project1\\renderer.cpp",
+              "RelativeToolTip": "Project1\\renderer.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-22T04:51:59.508Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "platform_common.cpp",
+              "DocumentMoniker": "C:\\PROJCTS\\C\u002B\u002B\\game\\Project1\\Project1\\platform_common.cpp",
+              "RelativeDocumentMoniker": "Project1\\platform_common.cpp",
+              "ToolTip": "C:\\PROJCTS\\C\u002B\u002B\\game\\Project1\\Project1\\platform_common.cpp",
+              "RelativeToolTip": "Project1\\platform_common.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-22T07:19:29.061Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Win32.platform.cpp",
+              "DocumentMoniker": "C:\\PROJCTS\\C\u002B\u002B\\game\\Win32.platform.cpp",
+              "RelativeDocumentMoniker": "..\\Win32.platform.cpp",
+              "ToolTip": "C:\\PROJCTS\\C\u002B\u002B\\game\\Win32.platform.cpp",
+              "RelativeToolTip": "..\\Win32.platform.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-22T03:32:29.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "game.cpp",
+              "DocumentMoniker": "C:\\PROJCTS\\C\u002B\u002B\\game\\Project1\\Project1\\game.cpp",
+              "RelativeDocumentMoniker": "Project1\\game.cpp",
+              "ToolTip": "C:\\PROJCTS\\C\u002B\u002B\\game\\Project1\\Project1\\game.cpp",
+              "RelativeToolTip": "Project1\\game.cpp",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-26T00:17:17.751Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

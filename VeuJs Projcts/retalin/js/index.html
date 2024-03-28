@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <title> Vue Js</title>
+    </head>
+    <body>
+        <div id="retalin-app">
+            <h1>Welcome to Vue.js Website</h1>
+            <label>Search For Programming Languages</label>
+            <input type="text" v-model="findLanguage">
+            <ul>
+                <li v-for="lang in filteredLanguages">
+                      {{ lang }}
+                </li>
+            </ul>
+        </div>
+        <script src="/js/vue.js"></script>
+        <script>
+            var vm = new Vue({
+                el: '#retalin-app',
+                data: {
+                    age: 27,
+                    message: 'Single Website',
+                    firstName: 'MuhammadAli',
+                    lastName: 'Sefrine',
+                    findLanguage: '',
+                    languages: [
+                        'Html',
+                        'Css',
+                        'Java',
+                        'C++',
+                    ],
+                },
+                computed: {
+                    filteredLanguages: function() {
+                        var filtering = new RegExp(this.findLanguage, 'i');
+                        return this.languages.filter(function(el) {
+                            return el.match(filtering);
+                        });
+                    }
+                }
+            });
+        </script>
+    </body>
+</html>

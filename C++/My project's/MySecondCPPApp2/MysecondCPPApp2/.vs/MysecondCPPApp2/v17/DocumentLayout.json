@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\My project\u0027s\\MySecondCPPApp2\\MysecondCPPApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{108B7478-FCF1-44CD-AB24-BA646C76EDD5}|MysecondCPPApp2\\MysecondCPPApp2.vcxproj|C:\\Users\\user\\Desktop\\My project\u0027s\\MySecondCPPApp2\\MysecondCPPApp2\\MysecondCPPApp2\\MysecondCPPApp2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{108B7478-FCF1-44CD-AB24-BA646C76EDD5}|MysecondCPPApp2\\MysecondCPPApp2.vcxproj|solutionrelative:MysecondCPPApp2\\MysecondCPPApp2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MysecondCPPApp2.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\My project\u0027s\\MySecondCPPApp2\\MysecondCPPApp2\\MysecondCPPApp2\\MysecondCPPApp2.cpp",
+              "RelativeDocumentMoniker": "MysecondCPPApp2\\MysecondCPPApp2.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\My project\u0027s\\MySecondCPPApp2\\MysecondCPPApp2\\MysecondCPPApp2\\MysecondCPPApp2.cpp",
+              "RelativeToolTip": "MysecondCPPApp2\\MysecondCPPApp2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-10T07:44:32.605Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

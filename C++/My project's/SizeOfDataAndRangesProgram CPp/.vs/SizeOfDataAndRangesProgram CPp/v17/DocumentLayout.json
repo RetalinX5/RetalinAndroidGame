@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\My project\u0027s\\SizeOfDataAndRangesProgram CPp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F62BDBA6-548E-4345-80D9-19A5586BB079}|SizeOfDataAndRangesProgram CPp\\SizeOfDataAndRangesProgram CPp.vcxproj|C:\\Users\\user\\Desktop\\My project\u0027s\\SizeOfDataAndRangesProgram CPp\\SizeOfDataAndRangesProgram CPp\\SizeOfDataAndRangesProgram CPp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F62BDBA6-548E-4345-80D9-19A5586BB079}|SizeOfDataAndRangesProgram CPp\\SizeOfDataAndRangesProgram CPp.vcxproj|solutionrelative:SizeOfDataAndRangesProgram CPp\\SizeOfDataAndRangesProgram CPp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SizeOfDataAndRangesProgram CPp.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\My project\u0027s\\SizeOfDataAndRangesProgram CPp\\SizeOfDataAndRangesProgram CPp\\SizeOfDataAndRangesProgram CPp.cpp",
+              "RelativeDocumentMoniker": "SizeOfDataAndRangesProgram CPp\\SizeOfDataAndRangesProgram CPp.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\My project\u0027s\\SizeOfDataAndRangesProgram CPp\\SizeOfDataAndRangesProgram CPp\\SizeOfDataAndRangesProgram CPp.cpp",
+              "RelativeToolTip": "SizeOfDataAndRangesProgram CPp\\SizeOfDataAndRangesProgram CPp.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-13T00:37:56.745Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
